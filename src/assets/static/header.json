@@ -1,7 +1,7 @@
 [
-    { "name": "Inicio", "url": "#" },
-    { "name": "Cuadros", "url": "#" },
-    { "name": "Camisetas", "url": "#" },
+    { "name": "Inicio", "url": "inicio" },
+    { "name": "Cuadros", "url": "cuadros" },
+    { "name": "Camisetas", "url": "camisetas" },
     { "name": "Carrito", "url": "#" }
   ]
   
